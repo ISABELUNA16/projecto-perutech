@@ -11,16 +11,8 @@ html{font-family:sans-serif;-webkit-text-size-adjust:100%;-ms-text-size-adjust:1
 /**
  * Estructura
  */
-    body.page-wrapper {
-        height: 100%;
-        width: 100%;
-    }
-
-    .container {
-        display: block;
-        width: 80%;
-        margin: 0 auto;
-    }
+ body.page-wrapper {height: 100%; width: 100%;}
+ .container { display: block; width: 80%; margin: 0 auto;}
 
 /* Extract from normalize.css  git.io/normalize */
 .w3-skill{text-align: center}
